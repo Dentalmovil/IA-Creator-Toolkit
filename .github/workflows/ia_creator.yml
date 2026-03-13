@@ -1,0 +1,30 @@
+name: Ejecutor de IA para Creadores
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 13 * * *' # Se ejecuta todos los días a las 8:00 AM (Hora Col)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Ejecutar script de IA
+        run: python generador_ia.py
+
+      - name: Guardar cambios en el Repo
+        run: |
+          git config --global user.name 'Dentalmovilr4'
+          git config --global user.email 'rodriguez-ramirez@hotmail.com'
+          git add IDEAS_DIARIAS.md
+          git commit -m "IA: Nueva idea de contenido generada" || exit 0
+          git push
