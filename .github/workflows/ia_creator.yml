@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Instalar dependencias
+        run: pip install requests
+
       - name: Ejecutar script de IA
         run: python generador_ia.py
 
