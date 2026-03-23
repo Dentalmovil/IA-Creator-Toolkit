@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-03-22
+# Reporte de Innovación - 2026-03-23
 
-**Proyecto seleccionado:** Optimización de bases de datos en Sistemas Data R4
+**Proyecto seleccionado:** Cómo gestionar Aura WhatsApp Bot desde Termux
 
 *Generado automáticamente para Dentalmovilr4.*
