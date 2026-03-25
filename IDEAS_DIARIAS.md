@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-03-24
+# Reporte de Innovación - 2026-03-25
 
-**Proyecto seleccionado:** Seguridad y cifrado para bots en Aura WhatsApp Bot
+**Proyecto seleccionado:** Cómo gestionar Aura WhatsApp Bot desde Termux
 
 *Generado automáticamente para Dentalmovilr4.*
