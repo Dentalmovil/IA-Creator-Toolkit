@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-03-26
+# Reporte de Innovación - 2026-03-27
 
-**Proyecto seleccionado:** Seguridad y cifrado para bots en Aura WhatsApp Bot
+**Proyecto seleccionado:** Análisis de datos agrícolas en Sistemas Data R4
 
 *Generado automáticamente para Dentalmovilr4.*
