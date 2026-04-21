@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-04-20
+# Reporte de Innovación - 2026-04-21
 
-**Proyecto seleccionado:** Nuevas funciones para Aura WhatsApp Bot
+**Proyecto seleccionado:** Integración de GitHub Actions con Sistemas Data R4
 
 *Generado automáticamente para Dentalmovilr4.*
