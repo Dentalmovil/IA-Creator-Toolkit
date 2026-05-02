@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-05-01
+# Reporte de Innovación - 2026-05-02
 
-**Proyecto seleccionado:** Análisis de datos agrícolas en Sistemas Data R4
+**Proyecto seleccionado:** Integración de GitHub Actions con Sistemas Data R4
 
 *Generado automáticamente para Dentalmovilr4.*
