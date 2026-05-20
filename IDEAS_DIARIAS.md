@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-05-19
+# Reporte de Innovación - 2026-05-20
 
-**Proyecto seleccionado:** Nuevas funciones para Aura WhatsApp Bot
+**Proyecto seleccionado:** Seguridad y cifrado para bots en Aura WhatsApp Bot
 
 *Generado automáticamente para Dentalmovilr4.*
