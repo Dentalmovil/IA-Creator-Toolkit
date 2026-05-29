@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-05-28
+# Reporte de Innovación - 2026-05-29
 
-**Proyecto seleccionado:** Análisis de datos agrícolas en Sistemas Data R4
+**Proyecto seleccionado:** Nuevas funciones para Aura WhatsApp Bot
 
 *Generado automáticamente para Dentalmovilr4.*
