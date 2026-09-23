@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-09-22
+# Reporte de Innovación - 2026-09-23
 
-**Proyecto seleccionado:** Integración de GitHub Actions con Sistemas Data R4
+**Proyecto seleccionado:** Optimización de bases de datos en Sistemas Data R4
 
 *Generado automáticamente para Dentalmovilr4.*
