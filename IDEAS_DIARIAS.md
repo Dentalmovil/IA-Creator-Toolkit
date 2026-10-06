@@ -1,5 +1,5 @@
-# Reporte de Innovación - 2026-10-05
+# Reporte de Innovación - 2026-10-06
 
-**Proyecto seleccionado:** Nuevas funciones para Aura WhatsApp Bot
+**Proyecto seleccionado:** Cómo gestionar Aura WhatsApp Bot desde Termux
 
 *Generado automáticamente para Dentalmovilr4.*
